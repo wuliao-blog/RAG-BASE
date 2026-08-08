@@ -41,3 +41,6 @@ nbdist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Corrupt git backup (leftover, not part of project)
+.git.bak_corrupt/
